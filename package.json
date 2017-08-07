@@ -1,7 +1,7 @@
 {
-  "name": "@unction/template",
+  "name": "@unction/flip",
   "version": "1.0.0",
-  "description": "",
+  "description": "Flips a function's first and second arguments.",
   "keywords": [
     "unction",
     "functional"
@@ -44,7 +44,5 @@
     "flow-typed": "2.1.3",
     "tap": "10.3.3"
   },
-  "dependencies": {
-    "ramda": "0.24.1"
-  }
+  "dependencies": null
 }
