@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
 import {test} from "tap"
 
-import flattenTree from "./source"
+import flip from "./source"
 
 const key = (name) => (iterable) => iterable[name]
 
