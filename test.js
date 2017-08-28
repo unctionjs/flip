@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
 import {test} from "tap"
 
-import flip from "./"
+import flip from "./index"
 
 const key = (name) => (iterable) => iterable[name]
 
