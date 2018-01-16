@@ -5,7 +5,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> (any -> any) -> any -> any -> any
+> (any => any) => any => any => any
 
 Flips a function's first and second arguments.
 
