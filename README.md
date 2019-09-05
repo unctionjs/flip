@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> MapperFunctionType => ValueType => ValueType => mixed
+> MapperFunctionType<A, MapperFunctionType<B, C>> => B => A => C
 
 Flips a function's first and second arguments.
 
