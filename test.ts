@@ -1,5 +1,5 @@
 
-import flip from "./index.ts";
+import flip from "./index";
 
 const key = (name) => (iterable) => iterable[name];
 
