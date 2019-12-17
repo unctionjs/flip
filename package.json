@@ -1,6 +1,6 @@
 {
   "name": "@unction/flip",
-  "version": "4.1.3",
+  "version": "4.1.4",
   "description": "Flips a function's first and second arguments.",
   "keywords": [
     "unction",
@@ -58,8 +58,7 @@
     "browser.js",
     "types/*.d.ts"
   ],
-  "dependencies": {
-  },
+  "dependencies": {},
   "module": "module.js",
   "browser": "browser.js",
   "types": "types.d.ts",
